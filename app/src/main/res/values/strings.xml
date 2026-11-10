@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kopi dan Nyemil</string>
+    <string name="tagline">Get a taste of your wish</string>
+    <string name="start_now">Start now</string>
+
+    <string name="sign_up_title">Sign up</string>
+    <string name="sign_up_desc">Join as a member &amp; experience more fun from various meal at meven_cube marketing app</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="login_user_title">Login User</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="hint_full_name">nama lengkap</string>
+
+    <string name="greeting_user">Halo %1$s,</string>
+    <string name="category_makanan">Makanan &amp; Minuman</string>
+    <string name="profile_title">Profile Saya</string>
+    <string name="profile_setting">Profile Setting</string>
+    <string name="hint_nama">nama</string>
+    <string name="save">Save</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="alamat_title">Alamat</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="hint_patokan">Patokan atau detail lengkap</string>
+    <string name="btn_order_kirim">Order dan Kirim</string>
+
+    <string name="konfirmasi_title">Konfirmasi Pesanan</string>
+    <string name="konfirmasi_msg">terima kasih sudah memesan tunggu aja sebentar kurir kami segera mengantarkan pesananmu!</string>
+    <string name="ok_status">OK</string>
+    <string name="btn_oke">Oke</string>
+
+    <string name="pesan_item">Pesan</string>
+    <string name="added_to_cart">Item berhasil ditambahkan ke pesanan</string>
+    <string name="profile_updated">Profil berhasil diperbarui</string>
+    <string name="please_fill_fields">Harap isi semua kolom</string>
+    <string name="no_item_selected">Belum ada item yang dipilih untuk dipesan</string>
+</resources>

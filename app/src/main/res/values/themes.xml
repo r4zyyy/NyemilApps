@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DroidCafe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/coffee_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/coffee_accent</item>
+        <item name="colorSecondary">@color/coffee_secondary</item>
+        <item name="android:statusBarColor">@color/coffee_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/coffee_background</item>
+    </style>
+
+    <style name="Theme.DroidCafe" parent="Base.Theme.DroidCafe" />
+</resources>
